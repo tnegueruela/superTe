@@ -1,0 +1,27 @@
+body {
+  background-image: url("../imagenes/6385.jpg");
+
+}
+.all {
+  box-sizing: content-box;
+  margin-left: 20px;
+  margin-right: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+img {
+  width: 50%;
+}
+
+p{
+  padding-top: 100px;
+  font-family: 'Satisfy', cursive;
+  font-size: 80px;
+  color: #4285F4;
+  width: 400px;
+  height: 200px;
+  text-align: left;
+  text-shadow: 2px 30px 8px rgba(189,16,224,0.75);
+
+}
